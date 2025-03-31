@@ -1,0 +1,8 @@
+flask
+requests
+beautifulsoup4
+youtube-transcript-api
+duckduckgo-search
+google-generativeai
+python-dotenv
+flask-cors
