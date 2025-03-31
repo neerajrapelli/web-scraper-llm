@@ -24,18 +24,10 @@ A powerful AI-driven web scraping and summarization tool that extracts content f
 
 ---
 
-## 📜 License  
-
-WebScrap AI is open-source and released under the **MIT License**.  
-See the [LICENSE](./LICENSE) file for more details.
-
----
-
 ## 🛠️ Get Started
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone "https://github.com/QwertyFusion/web-scraper-python.git"
 cd web-scrapper-python
 ```
 
