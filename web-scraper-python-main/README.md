@@ -147,8 +147,3 @@ Now, open your browser and go to **http://localhost:3000** to start using WebScr
 
 ---
 
-## 👨‍💻 Developer  
-
-<ul>
-  <li><a href="https://github.com/QwertyFusion">[@QwertyFusion]</a></li>
-</ul>
